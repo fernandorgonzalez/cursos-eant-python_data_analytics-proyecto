@@ -20,17 +20,17 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 
 ¿Qué nos proponemos con este proyecto?
 
-La llegada del COVID-19 implica un antes y un después en distintos ambitos, entre ellos el medio ambiente y transporte, dicho esto, en el marco del desafío final del programa de Data Analytics en EANT nos planteamos las siguiente pregunta:
+La llegada del COVID-19 implica un antes y un después en distintos ámbitos, entre ellos el medio ambiente y transporte, dicho esto, en el marco del desafío final del programa Python Data Analytics en EANT nos planteamos la siguiente pregunta:
 
 ¿Cómo se vieron afectados los indicadores de contaminantes y transporte por el COVID-19 en el año 2020?
 
-Para responder esta pregunta analizamos los datos provistos por el gobierno de la ciudad de Buenos Aires.
+Para responder este interrogante analizamos los datos provistos por el gobierno de la ciudad de Buenos Aires.
 
 <h3> Conclusiones:
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehiculos se reducieron en un 10% y por otro lado las bicicletas duplicaron sus valores de uso.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehículos se redujeron en un 10% y por otro lado las bicicletas duplicaron su utilización.
 
 
 <a name="c-dos"></a>
