@@ -1,5 +1,5 @@
 # EANT
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Open_data_large_color_%28vector%29.svg/193px-Open_data_large_color_%28vector%29.svg.png" align="right"
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/eant.jpg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="160" height="178">
 Python Data Analytics - pda-lm-n-294 - Grupo 1
 
@@ -99,22 +99,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="herramientas"></a>
 </h3>
 
-#### Librerías:
-
-```python
-import matplotlib.pyplot as plt
-import numpy as np
-import plotly.express as px
-import pandas as pd
-import seaborn as sns
-```
-
-**[GitHub]** como gestor de versiones para nuestros analisis
-
-**[Dash]** para la representacion de las graficas obtenidas gracias al procesamiento y entendimiento de los datos
-
-**[Flask]** como server, ya que app de Dash esta montada sobre Flask permiento que ambas se mantengan separadas, haciendo mas robusta la aplicacion
-
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/herramientas.jpg">
 
 <h3> Quienes somos?:
 <a name="quienes_somos"></a>
