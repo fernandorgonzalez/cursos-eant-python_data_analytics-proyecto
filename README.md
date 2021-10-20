@@ -21,7 +21,7 @@
 
 ¿Qué nos proponemos con este proyecto?
 
-En el marco del desafío final del programa de Data Analytics de EANT, nos planteamos las siguiente pregunta:
+La llegada del COVID-19 implica un antes y un después en distintos ambitos, entre ellos el medio ambiente y el transporte, dicho esto y en el marco del desafío final del programa de Data Analytics en EANT nos planteamos las siguiente pregunta:
 
 ¿Cómo se vieron afectados los indicadores de contaminantes y transporte por el COVID-19 en el año 2020?
 
@@ -36,7 +36,7 @@ Para responder esta pregunta analizamos los set de datos provistos por el gobier
 
 <a name="c-dos"></a>
 
-2 – Desde ya podemos se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes.
+2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes.
 
 <img src="https://github.com/jonatrios/proyecto-final-EANT-pda-lm-n-294/blob/main/dash_application/assets/pda-lm-n-294-1%20(1)_page-0001.jpg">
 
