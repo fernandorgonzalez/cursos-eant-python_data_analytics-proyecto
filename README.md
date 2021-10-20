@@ -38,7 +38,7 @@ Para responder esta pregunta analizamos los datos provistos por el gobierno de l
 
 2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes.
 
-<img src="https://github.com/jonatrios/proyecto-final-EANT-pda-lm-n-294/blob/main/dash_application/assets/pda-lm-n-294-1%20(1)_page-0001.jpg">
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
 <h3> Metodología:
 <a name="metodo"></a>
