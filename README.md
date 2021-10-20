@@ -76,9 +76,9 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 1 – No todos los datos se encuentran actualizados a la fecha o bien en los mismos periodos de tiempo por lo que decidimos focalizar el análisis en el año 2020
 
-2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub.
+2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub
 
-3 – Nos encontramos con que cada set de datos cuenta con información dispar en distintas escalas por lo que adoptamos normalizar eligiendo una escala del 1 al 10 facilitando de esa manera su posterior comparación.
+3 – Nos encontramos con que cada set de datos cuenta con información dispar en distintas escalas por lo que adoptamos normalizar eligiendo una escala del 1 al 10 facilitando de esa manera su posterior comparación
 
 <h3> Herramientas:
 <a name="herramientas"></a>
