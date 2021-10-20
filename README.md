@@ -120,8 +120,6 @@ import seaborn as sns
 <a name="quienes_somos"></a>
 </h3>
 
-Les dejamos los links hacia nuestros perfiles de LinkedIn!
-
 **[Ezequiel Mariani]**
 
 **[Fernando Gonzalez]**
