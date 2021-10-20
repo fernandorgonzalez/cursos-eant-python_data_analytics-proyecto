@@ -35,7 +35,7 @@ Para responder este interrogante analizamos los datos provistos por el gobierno 
 
 <a name="c-dos"></a>
 
-2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes.
+2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes del tipo PM10 para la estación avenida Córdoba.
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
