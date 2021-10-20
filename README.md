@@ -12,7 +12,7 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 - [Metodología](#metodo)
 - [Problemas Encontrados](#problemas)
 - [Herramientas](#herramientas)
-- [Quienes somos?](#quienes_somos)
+- [Quiénes somos?](#quienes_somos)
 
 <h3> Introducción:
 <a name="introducción"></a>
@@ -100,7 +100,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/herramientas.jpg">
 
-<h3> Quienes somos?:
+<h3> Quiénes somos?
 <a name="quienes_somos"></a>
 </h3>
 
