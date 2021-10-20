@@ -25,16 +25,17 @@ En el marco del desafío final del programa de Data Analytics de EANT, nos plant
 
 ¿Cómo se vieron afectados los indicadores de contaminantes y transporte por el COVID-19 en el año 2020?
 
-Para responder esta pregunta analizamos los set de datos provistos por el Gobierno de la Ciudad de Buenos Aires.
+Para responder esta pregunta analizamos los set de datos provistos por el gobierno de la ciudad de Buenos Aires.
 
 <h3> Conclusiones:
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en el ambiento de la ciudad de Buenos Aires podemos decir que durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehiculos se reducieron en un 10% pero la buena noticia para el medio ambiente es que las bicicletas duplicaron sus valores de uso.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires podemos decir que durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehiculos se reducieron en un 10% pero la buena noticia para el medio ambiente es que las bicicletas duplicaron sus valores de uso.
 
 
 <a name="c-dos"></a>
+
 2 – De hecho, el cambio en el uso del transporte favorece al medio ambiente con una reducción del 28% para los contaminantes.
 
 <img src="https://github.com/jonatrios/proyecto-final-EANT-pda-lm-n-294/blob/main/dash_application/assets/pda-lm-n-294-1%20(1)_page-0001.jpg">
