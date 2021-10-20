@@ -44,7 +44,7 @@ Para responder esta pregunta analizamos los datos provistos por el gobierno de l
 <a name="metodo"></a>
 </h3>
 
-- La fuente de datos corresponde al gobierno de la ciudad de Buenos Aires, puntualmente el sitio Buenos Aires Data:
+- La fuente de datos corresponde al sitio Buenos Aires Data:
 
 https://data.buenosaires.gob.ar/dataset/
 
