@@ -1,6 +1,5 @@
 # EANT
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/eant.jpg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="160" height="178">
+
 Python Data Analytics - pda-lm-n-294 - Grupo 1
 
 ## Tabla de Contenidos
