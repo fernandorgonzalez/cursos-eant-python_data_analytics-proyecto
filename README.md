@@ -21,11 +21,11 @@
 
 ¿Qué nos proponemos con este proyecto?
 
-La llegada del COVID-19 implica un antes y un después en distintos ambitos, entre ellos el medio ambiente y el transporte, dicho esto y en el marco del desafío final del programa de Data Analytics en EANT nos planteamos las siguiente pregunta:
+La llegada del COVID-19 implica un antes y un después en distintos ambitos, entre ellos el medio ambiente y transporte, dicho esto, en el marco del desafío final del programa de Data Analytics en EANT nos planteamos las siguiente pregunta:
 
 ¿Cómo se vieron afectados los indicadores de contaminantes y transporte por el COVID-19 en el año 2020?
 
-Para responder esta pregunta analizamos los set de datos provistos por el gobierno de la ciudad de Buenos Aires.
+Para responder esta pregunta analizamos los datos provistos por el gobierno de la ciudad de Buenos Aires.
 
 <h3> Conclusiones:
 <a name="conclusiones"></a>
