@@ -13,7 +13,7 @@
 - [Metodología](#metodo)
 - [Problemas Encontrados](#problemas)
 - [Herramientas](#herramientas)
-- [Nosotros](#nosotros)
+- [Quienes somos?](#quienes_somos)
 
 <h3> Introducción:
 <a name="introducción"></a>
@@ -116,8 +116,8 @@ import seaborn as sns
 **[Flask]** como server, ya que app de Dash esta montada sobre Flask permiento que ambas se mantengan separadas, haciendo mas robusta la aplicacion
 
 
-<h3> Nosotros:
-<a name="nosotros"></a>
+<h3> Quienes somos?:
+<a name="quienes_somos"></a>
 </h3>
 
 Les dejamos los links hacia nuestros perfiles de LinkedIn!
