@@ -31,12 +31,12 @@ Para responder esta pregunta analizamos los set de datos provistos por el gobier
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires podemos decir que durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehiculos se reducieron en un 10% pero la buena noticia para el medio ambiente es que las bicicletas duplicaron sus valores de uso.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehiculos se reducieron en un 10% y por otro lado las bicicletas duplicaron sus valores de uso.
 
 
 <a name="c-dos"></a>
 
-2 – De hecho, el cambio en el uso del transporte favorece al medio ambiente con una reducción del 28% para los contaminantes.
+2 – Desde ya podemos se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes.
 
 <img src="https://github.com/jonatrios/proyecto-final-EANT-pda-lm-n-294/blob/main/dash_application/assets/pda-lm-n-294-1%20(1)_page-0001.jpg">
 
