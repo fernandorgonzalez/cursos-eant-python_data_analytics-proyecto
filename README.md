@@ -1,7 +1,7 @@
-# EANT - Grupo 1
+# EANT
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Open_data_large_color_%28vector%29.svg/193px-Open_data_large_color_%28vector%29.svg.png" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="160" height="178">
-2021 Python Data Analytics (pda-lm-n-294)
+Python Data Analytics - pda-lm-n-294 - Grupo 1
 
 ## Tabla de Contenidos
 
