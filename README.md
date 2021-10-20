@@ -92,12 +92,21 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="c-uno"></a>
 1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehículos se redujeron en un 10% y por otro lado las bicicletas duplicaron su utilización.
 
-
 <a name="c-dos"></a>
 
 2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba.
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/bicicletas.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/subte.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/vehiculos.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/contaminantes.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
 
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
