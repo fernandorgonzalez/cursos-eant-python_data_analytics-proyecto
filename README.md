@@ -78,7 +78,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub
 
-3 – En lo que respecta a la limpieza de los datos, en todos los datasets normalizamos las fechas, filtramos valores nulos e imputamos una escala del 1 al 10 para los valores facilitando de esa manera su posterior comparación
+3 – En lo que respecta a la limpieza de los datos, en todos los datasets normalizamos las fechas, filtramos valores nulos e imputamos para los valores una escala del 1 al 10 facilitando de esa manera su posterior comparación
 
 <h3> Herramientas:
 <a name="herramientas"></a>
@@ -90,11 +90,11 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020 hay transportes como el subte que sufrieron una disminución de un 77% en su uso, los vehículos se redujeron en un 10% y por otro lado las bicicletas duplicaron su utilización.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020, el subte sufrió una caída de un 77% en su uso, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
 
 <a name="c-dos"></a>
 
-2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba.
+2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
