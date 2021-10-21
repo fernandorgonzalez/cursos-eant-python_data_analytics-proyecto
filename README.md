@@ -78,7 +78,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub
 
-3 – En lo que respecta a la limpieza de los datos, normalizamos las fechas, filtramos nulos e imputamos para los valores una escala del 1 al 10 facilitando de esa manera su posterior comparación
+3 – En lo que respecta a la limpieza de los datos, normalizamos las fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación
 
 <h3> Herramientas:
 <a name="herramientas"></a>
@@ -90,7 +90,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020, el subte sufrió una caída del 77% en su uso, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020, el subte sufrió una caída del 77%, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
 
 <a name="c-dos"></a>
 
