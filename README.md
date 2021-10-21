@@ -96,9 +96,17 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
 
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/subte.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/vehiculos.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/bicicletas.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/contaminantes.jpg">
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
@@ -110,9 +118,9 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 **[Jonathan Rios]**
 
-**[Paula Arrigoni]**
-
 **[Pablo Capozzi]**
+
+**[Paula Arrigoni]**
 
 [GitHub]: https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto
 [Dash]: https://plotly.com/dash/
