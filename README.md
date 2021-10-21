@@ -90,23 +90,15 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020, el subte sufrió una caída de un 77% en su uso, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020, el subte sufrió una caída del 77% en su uso, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
 
 <a name="c-dos"></a>
 
-2 – Desde ya se trata de una buena noticia para el medio ambiente ya que estos cambios en el uso del transporte se ven acompañados por una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
-
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/subte.jpg">
-
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/vehiculos.jpg">
-
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/bicicletas.jpg">
-
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/contaminantes.jpg">
-
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
+2 – Desde ya es una muy buena noticia para el medio ambiente con una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
 
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
