@@ -107,8 +107,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 **[Heroku]**
 
-**[GitHub]**
-
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
 </h3>
