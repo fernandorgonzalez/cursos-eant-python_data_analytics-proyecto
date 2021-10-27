@@ -107,6 +107,8 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 **[Heroku]**
 
+**[GitHub]**
+
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
 </h3>
@@ -121,7 +123,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 **[Paula Arrigoni]**
 
-[GitHub]: https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto
 [Dash]: https://plotly.com/dash/
 [Flask]: https://flask.palletsprojects.com/en/2.0.x/
 [Ezequiel Mariani]: https://www.linkedin.com/in/ezequiel-mariani/
@@ -136,6 +137,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 [vehiculos.ipynb]: https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/vehiculos.ipynb
 [pda-lm-n-294-1.ipynb]: https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.ipynb
 [Heroku]: https://proyecto-final-eant-2021.herokuapp.com/dash/
+[GitHub]: https://github.com/jonatrios/proyecto-final-EANT-pda-lm-n-294
 
 
 
