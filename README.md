@@ -13,6 +13,9 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 - [Dash](#dash)
 - [Quiénes somos?](#quienes_somos)
 
+<br>
+<br>
+
 <h3> Introducción:
 <a name="introducción"></a>
 </h3>
@@ -26,6 +29,8 @@ La llegada del COVID-19 implica un antes y un después en distintos ámbitos, en
 Para responder este interrogante analizamos los datos provistos por el gobierno de la ciudad de Buenos Aires.
 
 https://data.buenosaires.gob.ar/dataset/
+
+<br>
 
 <h3> Datasets:
 <a name="datasets"></a>
@@ -51,6 +56,8 @@ Vehículos:
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-unidades-peaje-ausa/flujo-vehicular-2020.csv
 
+<br>
+
 <h3> Problemas Encontrados:
 <a name="problemas"></a>
 </h3>
@@ -60,6 +67,9 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub.
 
 3 – En lo que respecta a la limpieza de los datos, normalizamos fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación.
+
+<br>
+<br>
 
 <h3> Metodología:
 <a name="metodo"></a>
@@ -82,35 +92,32 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 **[pda-lm-n-294-1.ipynb]**
 
+<br>
+<br>
+
 <h3> Herramientas:
 <a name="herramientas"></a>
 </h3>
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/herramientas.jpg">
 
+<br>
+<br>
+
 <h3> Conclusiones:
 <a name="conclusiones"></a>
 </h3>
-<a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires comparando los meses de diciembre y enero 2020, podemos confirmar que la utilización del subte sufrió una caída del 77%, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
 
-<a name="c-dos"></a>
+- Por medio del análisis y visualización de datos confirmamos que la llegada del COVID-19 modificó los hábitos en el uso del transporte durante el año 2020, a partir de la cuarentena estricta, en el mes de abril se observa una caída total de la actividad y desde ese momento en adelante si bien hay un rebote en forma de V no todos los servicios volvieron a sus valores normales.
 
-2 – Respecto al medio ambiente la buena noticia es que se presentó una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
-
-<a name="c-tres"></a>
-
-3 – Por medio del análisis y visualización de datos confirmamos que la llegada del COVID-19 modificó los hábitos en el uso del transporte, a partir de la cuarentena estricta, en el mes de abril se observa una caída total de la actividad y desde ese momento en adelante si bien hay un rebote en forma de V no todos los servicios volvieron a sus valores normales.
-
-
-
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
-
-
+- Respecto al medio ambiente la buena noticia es que se presentó una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
+<br>
+<br>
 
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
 
 <h3> Dash:
 <a name="dash"></a>
