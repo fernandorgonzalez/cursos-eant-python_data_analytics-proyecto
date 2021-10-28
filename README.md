@@ -1,3 +1,8 @@
+<br>
+<br>
+<br>
+<br>
+
 # EANT
 
 Python Data Analytics - pda-lm-n-294 - Grupo 1
@@ -12,6 +17,11 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 - [Conclusiones](#conclusiones)
 - [Dash](#dash)
 - [Quiénes somos?](#quienes_somos)
+
+<br>
+<br>
+<br>
+<br>
 
 <h3> Introducción:
 <a name="introducción"></a>
