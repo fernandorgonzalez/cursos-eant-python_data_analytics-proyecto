@@ -100,11 +100,17 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 <a name="c-tres"></a>
 
-3 – Por medio del análisis y visualización de datos estamos confirmando que la llegada del COVID-19 modificó los hábitos en el uso del transporte, a partir de la cuarentena estricta, en el mes de abril se observa una caída total y desde ese momento en adelante si bien hay un rebote en forma de V no todos volvieron los servicios volvieron a sus valores normales.
+3 – Por medio del análisis y visualización de datos estamos confirmando que la llegada del COVID-19 modificó los hábitos en el uso del transporte, a partir de la cuarentena estricta, en el mes de abril se observa una caída total de la actividad y desde ese momento en adelante si bien hay un rebote en forma de V no todos volvieron los servicios volvieron a sus valores normales.
+
+
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
+
+
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
+
 
 <h3> Dash:
 <a name="dash"></a>
