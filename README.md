@@ -92,7 +92,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires durante el año 2020, el subte sufrió una caída del 77%, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron sus valores.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires comparando los meses de diciembre y enero 2020, podemos confirmar que la utilización del subte sufrió una caída del 77%, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron sus valores.
 
 <a name="c-dos"></a>
 
