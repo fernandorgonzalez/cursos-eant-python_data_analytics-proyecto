@@ -13,8 +13,6 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 - [Dash](#dash)
 - [Quiénes somos?](#quienes_somos)
 
-<br>
-
 <h3> Introducción:
 <a name="introducción"></a>
 </h3>
