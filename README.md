@@ -105,8 +105,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 - Por medio del análisis y visualización de datos confirmamos que la llegada del COVID-19 modificó los hábitos en el uso del transporte durante el año 2020, a partir de la cuarentena estricta, en el mes de abril se observa una caída total de la actividad y desde ese momento en adelante si bien hay un rebote en forma de V no todos los servicios volvieron a sus valores normales.
 
-- Respecto al medio ambiente la buena noticia es que se presentó una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
-
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
 <br>
