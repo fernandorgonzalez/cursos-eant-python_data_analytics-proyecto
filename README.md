@@ -92,11 +92,15 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="conclusiones"></a>
 </h3>
 <a name="c-uno"></a>
-1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires comparando los meses de diciembre y enero 2020, podemos confirmar que la utilización del subte sufrió una caída del 77%, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron sus valores.
+1 – De acuerdo a los indicadores observados en la ciudad de Buenos Aires comparando los meses de diciembre y enero 2020, podemos confirmar que la utilización del subte sufrió una caída del 77%, los vehículos se redujeron en un 10% y de manera sorprendente las bicicletas duplicaron estos valores.
 
 <a name="c-dos"></a>
 
 2 – Respecto al medio ambiente la buena noticia es que se presentó una reducción del 28% para los contaminantes del tipo PM10 en la estación ambiental Córdoba (partículas sólidas de polvo).
+
+<a name="c-tres"></a>
+
+3 – Por medio del análisis y visualización de datos estamos confirmando que la llegada del COVID-19 modificó los hábitos en el uso del transporte, a partir de la cuarentena estricta, en el mes de abril se observa una caída total y desde ese momento en adelante si bien hay un rebote en forma de V no todos volvieron los servicios volvieron a sus valores normales.
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
