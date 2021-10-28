@@ -14,7 +14,6 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 - [Quiénes somos?](#quienes_somos)
 
 <br>
-<br>
 
 <h3> Introducción:
 <a name="introducción"></a>
