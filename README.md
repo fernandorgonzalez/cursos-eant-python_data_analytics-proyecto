@@ -123,6 +123,9 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
 
 <br>
+<br>
+<br>
+<br>
 
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
