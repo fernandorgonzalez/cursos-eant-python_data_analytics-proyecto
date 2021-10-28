@@ -59,7 +59,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub.
 
-3 – En lo que respecta a la limpieza de los datos, normalizamos las fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación.
+3 – En lo que respecta a la limpieza de los datos, normalizamos fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación.
 
 <h3> Metodología:
 <a name="metodo"></a>
