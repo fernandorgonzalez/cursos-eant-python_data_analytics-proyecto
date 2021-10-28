@@ -30,8 +30,6 @@ Para responder este interrogante analizamos los datos provistos por el gobierno 
 
 https://data.buenosaires.gob.ar/dataset/
 
-<br>
-
 <h3> Datasets:
 <a name="datasets"></a>
 </h3>
