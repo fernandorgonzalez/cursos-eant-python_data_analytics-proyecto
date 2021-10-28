@@ -54,8 +54,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sbase/subte-viajes-molinet
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-unidades-peaje-ausa/flujo-vehicular-2020.csv
 
-<br>
-
 <h3> Problemas Encontrados:
 <a name="problemas"></a>
 </h3>
