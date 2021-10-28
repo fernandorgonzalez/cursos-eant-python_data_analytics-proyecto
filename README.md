@@ -112,10 +112,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <br>
 <br>
 
-<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
-
-<br>
-
 <h3> Dash:
 <a name="dash"></a>
 </h3>
@@ -123,6 +119,8 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 - **[Heroku]**
 
 <br>
+
+<img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
 
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
