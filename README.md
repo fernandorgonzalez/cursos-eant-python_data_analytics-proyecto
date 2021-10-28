@@ -10,8 +10,6 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 - [Metodología](#metodo)
 - [Herramientas](#herramientas)
 - [Conclusiones](#conclusiones)
-    - [Punto 1](#c-uno)
-    - [Punto 2](#c-dos)
 - [Dash](#dash)
 - [Quiénes somos?](#quienes_somos)
 
