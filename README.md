@@ -34,23 +34,23 @@ https://data.buenosaires.gob.ar/dataset/
 <a name="datasets"></a>
 </h3>
 
-Bicicletas:
+- Bicicletas:
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte/bicicletas-publicas/recorridos-realizados-2020.zip
 
-Contaminantes:
+- Contaminantes:
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/agencia-de-proteccion-ambiental/calidad-aire/calidad-aire.csv
 
-Casos de Covid:
+- Casos de Covid:
 
 https://sisa.msal.gov.ar/datos/descargas/covid-19/files/Covid19Casos.zip
 
-Subte:
+- Subte:
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/sbase/subte-viajes-molinetes/molinetes-2020.zip
 
-Vehículos:
+- Vehículos:
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-unidades-peaje-ausa/flujo-vehicular-2020.csv
 
@@ -122,7 +122,7 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="dash"></a>
 </h3>
 
-**[Heroku]**
+- **[Heroku]**
 
 <br>
 
@@ -130,15 +130,15 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="quienes_somos"></a>
 </h3>
 
-**[Ezequiel Mariani]**
+- **[Ezequiel Mariani]**
 
-**[Fernando Gonzalez]**
+- **[Fernando Gonzalez]**
 
-**[Jonathan Rios]**
+- **[Jonathan Rios]**
 
-**[Pablo Capozzi]**
+- **[Pablo Capozzi]**
 
-**[Paula Arrigoni]**
+- **[Paula Arrigoni]**
 
 [Dash]: https://plotly.com/dash/
 [Flask]: https://flask.palletsprojects.com/en/2.0.x/
