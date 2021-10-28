@@ -4,9 +4,10 @@ Python Data Analytics - pda-lm-n-294 - Grupo 1
 
 ## Tabla de Contenidos
 
-- [Introducción](#introducción)   
-- [Metodología](#metodo)
+- [Introducción](#introducción)
+- [Datasets](#datasets)
 - [Problemas Encontrados](#problemas)
+- [Metodología](#metodo)
 - [Herramientas](#herramientas)
 - [Conclusiones](#conclusiones)
     - [Punto 1](#c-uno)
@@ -26,13 +27,11 @@ La llegada del COVID-19 implica un antes y un después en distintos ámbitos, en
 
 Para responder este interrogante analizamos los datos provistos por el gobierno de la ciudad de Buenos Aires.
 
-<h3> Metodología:
-<a name="metodo"></a>
-</h3>
-
-- La fuente de datos corresponde al sitio Buenos Aires Data:
-
 https://data.buenosaires.gob.ar/dataset/
+
+<h3> Datasets:
+<a name="datasets"></a>
+</h3>
 
 Bicicletas:
 
@@ -54,6 +53,20 @@ Vehículos:
 
 https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-unidades-peaje-ausa/flujo-vehicular-2020.csv
 
+<h3> Problemas Encontrados:
+<a name="problemas"></a>
+</h3>
+
+1 – No todos los datos se encuentran actualizados a la fecha o bien en los mismos periodos de tiempo, por lo que decidimos focalizar el análisis en el año 2020.
+
+2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub.
+
+3 – En lo que respecta a la limpieza de los datos, normalizamos las fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación.
+
+<h3> Metodología:
+<a name="metodo"></a>
+</h3>
+
 - En lo que respecta a la limpieza y normalización de datos elegimos utilizar una notebook por cada uno de los datasets:
 
 **[bicicletas.ipynb]**
@@ -70,16 +83,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 - Una vez concluida la limpieza y normalización avanzamos con la carga de los datos ya procesados para su posterior visualización en la siguiente notebook:
 
 **[pda-lm-n-294-1.ipynb]**
-
-<h3> Problemas Encontrados:
-<a name="problemas"></a>
-</h3>
-
-1 – No todos los datos se encuentran actualizados a la fecha o bien en los mismos periodos de tiempo, por lo que decidimos focalizar el análisis en el año 2020.
-
-2 – Por tratarse de un trabajo en equipo donde necesitábamos avanzar en forma colaborativa nos encontramos con la necesidad de contar con una herramienta donde cada uno pueda ir desarrollando en paralelo una función y/o notebook, para solventar tal problemática adoptamos el uso de GitHub.
-
-3 – En lo que respecta a la limpieza de los datos, normalizamos las fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación.
 
 <h3> Herramientas:
 <a name="herramientas"></a>
