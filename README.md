@@ -94,6 +94,8 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 <a name="herramientas"></a>
 </h3>
 
+<br>
+
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/herramientas.jpg">
 
 <br>
