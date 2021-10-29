@@ -61,8 +61,6 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 3 – En lo que respecta a la limpieza de los datos, normalizamos fechas, filtramos nulos e imputamos a los valores una escala del 1 al 10 facilitando su posterior comparación.
 
-<br>
-
 <h3> Metodología:
 <a name="metodo"></a>
 </h3>
