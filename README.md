@@ -82,19 +82,11 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 **[pda-lm-n-294-1.ipynb]**
 
-<br>
-<br>
-
 <h3> Herramientas:
 <a name="herramientas"></a>
 </h3>
 
-<br>
-
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/herramientas.jpg">
-
-<br>
-<br>
 
 <h3> Conclusiones:
 <a name="conclusiones"></a>
@@ -104,23 +96,13 @@ https://cdn.buenosaires.gob.ar/datosabiertos/datasets/ausa/flujo-vehicular-por-u
 
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/pda-lm-n-294-1.jpeg">
 
-<br>
-<br>
-
 <h3> Dash:
 <a name="dash"></a>
 </h3>
 
 - **[Heroku]**
 
-<br>
-
 <img src="https://github.com/fernandorgonzalez/cursos-eant-python_data_analytics-proyecto/blob/main/comparacion.jpg">
-
-<br>
-<br>
-<br>
-<br>
 
 <h3> Quiénes somos?
 <a name="quienes_somos"></a>
