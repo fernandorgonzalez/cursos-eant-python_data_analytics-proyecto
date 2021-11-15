@@ -1,6 +1,6 @@
 # EANT
 
-Python Data Analytics - pda-lm-n-294 - Grupo 1
+Python Data Analytics - pda-lm-n-294 - Grupo 1 - Proyecto Integrador
 
 ## Tabla de Contenidos
 
